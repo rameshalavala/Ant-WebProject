@@ -34,6 +34,7 @@
 		<copy  todir="${work.home}/WEB-INF/classes">
 			<fileset dir="${src.home}" excludes="**/*.java"/>
 		</copy>
+		
 	</target>
 
 	<!-- Define the CLASSPATH -->
